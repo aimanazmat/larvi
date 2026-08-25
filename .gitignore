@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+storage/credentials.json
+storage/token.json
+storage/sessions.json
+storage/*.sqlite3
